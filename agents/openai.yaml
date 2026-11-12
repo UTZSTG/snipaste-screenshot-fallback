@@ -1,0 +1,4 @@
+interface:
+  display_name: "Snipaste 截图回退"
+  short_description: "内置截图超时时，用 Snipaste 保存并读取 Windows 窗口画面"
+  default_prompt: "使用 $snipaste-screenshot-fallback 为内置工具无法截图的窗口建立可靠的截图观察流程。"
